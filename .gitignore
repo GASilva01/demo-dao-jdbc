@@ -4,7 +4,7 @@ out/
 !**/src/test/**/out/
 .kotlin
 .idea
-.demo-dado-jdbc.iml
+.demo-dao-jdbc.iml
 
 ### Eclipse ###
 .apt_generated
