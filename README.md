@@ -6,9 +6,9 @@ Neste projeto foi implementado um CRUD completo utilizando o padrão DAO (Data A
 
 **`Tecnologias`**
 
-#### Java 25 (Zulu LTS)
+* #### Java 25 (Zulu LTS)
 
-#### MySQL JDBC
+* #### MySQL JDBC
 
 **`Como configurar`**
 
